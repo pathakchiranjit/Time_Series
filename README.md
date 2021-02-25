@@ -34,7 +34,7 @@
 	  - 6.9.3 [Auto Regressive Integrated Moving Average Model:](#section6093)
 7. [Conclusion](#section7)
 
-##Context:
+## Context:
 Air is what keeps humans alive. Monitoring it and understanding its quality is of immense importance to our well-being.
 
 <img src="https://github.com/pathakchiranjit/Time_Series/blob/main/Pics/aqi4.jpg?raw=true" align='left'><br/>
