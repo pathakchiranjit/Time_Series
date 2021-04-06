@@ -1,5 +1,10 @@
 ### **The time-series project based on AQI data in Indian cities**
 
+
+# Own Article link:
+https://www.linkedin.com/posts/chiranjit-pathak-2261892a_timeseries-activity-6770680127278850049-gcMy
+
+
 <img src="https://github.com/pathakchiranjit/Time_Series/blob/main/Pics/aqi5.gif?raw=true" align='left'><br/>
 
 ### An air quality index is used by government agencies to communicate to the public how polluted the air currently is or how polluted it is forecast to become. Public health risks increase as the AQI rises. Different countries have their own air quality indices, corresponding to different national air quality standards.
